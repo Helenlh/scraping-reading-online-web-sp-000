@@ -8,3 +8,5 @@ doc.CSS(".headline-260IBN)
 
 #MobileLeft-2Yo002.imageTextBlockGrid3-2XAK6G")
  
+ doc.css(".headline-260IBN").text 
+ 
